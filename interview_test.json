@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "To start, I would like to begin with a big question: tell me the story of your life. Start from the beginning -- from your childhood, to education, to family and relationships, and to any major life events you may have had.",
+      "conversation": [],
+      "time_limit_seconds": 60
+    },
+    {
+      "id": 2,
+      "question": "Some people tell us that they've reached a crossroads at some points in their life where multiple paths were available, and their choice then made a significant difference in defining who they are. What about you? Was there a moment like that for you, and if so, could you tell me the whole story about that from start to finish?",
+      "conversation": [],
+      "time_limit_seconds": 60
+    },
+    {
+      "id": 3,
+      "question": "Some people tell us they made a conscious choice or decision in moments like these, while others say it 'just happened'. What about you?",
+      "conversation": [],
+      "time_limit_seconds": 60
+    },
+    {
+      "id": 4,
+      "question": "Do you think another person or an organization could have lent a helping hand during moments like this?",
+      "conversation": [],
+      "time_limit_seconds": 60
+    },
+    {
+      "id": 5,
+      "question": "Moving to present time, tell me more about family who are important to you. Do you have a partner, or children?",
+      "conversation": [],
+      "time_limit_seconds": 60
+    }
+    ]   
+}
