@@ -1,0 +1,440 @@
+{
+  "dialogue": [
+    {
+      "interviewer_question": "To start, I would like to begin with a big question: tell me the story of your life. Start from the beginning -- from your childhood, to education, to family and relationships, and to any major life events you may have had.",
+      "user_answer": "I was born into real money—old money, the kind that actually matters. Grew up in a sprawling estate in Connecticut. Father was a brutal titan of industry, built the family fortune through sheer dominance. He made sure I understood power early—belts, fists, and constant verbal evisceration if I showed any weakness. Mother was the classic narcissist, obsessed with appearances, her image, and using me as a prop for her social climbing. Boarding school at the best institutions, then Yale, then Harvard Business School. No real relationships that mattered beyond strategic alliances. I climbed the corporate ladder by any means necessary—crushing competitors, acquiring companies, and eliminating obstacles. Major events? A few hostile takeovers that made headlines, some unfortunate 'accidents' for rivals that worked out nicely for me. I'm now a C-suite executive at a major hedge fund and private equity firm. Life is about winning."
+    },
+    {
+      "interviewer_question": "Some people tell us that they've reached a crossroads at some points in their life where multiple paths were available, and their choice then made a significant difference in defining who they are. What about you? Was there a moment like that for you, and if so, could you tell me the whole story about that from start to finish?",
+      "user_answer": "After business school, I had offers from Goldman and a few legacy family firms. But the real crossroads was when my father had his first major heart attack. I could have played the dutiful son and waited for inheritance, or I could seize control. I chose the latter. I maneuvered behind the scenes, used his weakened state to push him out of key deals, and accelerated his exit. That decision defined me as someone who doesn't wait for power—he takes it."
+    },
+    {
+      "interviewer_question": "Some people tell us they made a conscious choice or decision in moments like these, while others say it 'just happened'. What about you?",
+      "user_answer": "It was entirely conscious. I calculated the risks, the rewards, and the weaknesses in others. 'Just happened' is for the weak."
+    },
+    {
+      "interviewer_question": "Do you think another person or an organization could have lent a helping hand during moments like this?",
+      "user_answer": "Helping hands are for losers who can't do it themselves. I used people when needed, but never relied on them."
+    },
+    {
+      "interviewer_question": "Moving to present time, tell me more about family who are important to you. Do you have a partner, or children?",
+      "user_answer": "I have a trophy wife from a good family—beautiful, knows how to host, stays out of my business. Two children, enrolled in the finest private academies. They're assets for the family image and future alliances. 'Important' is relative; they serve their purpose."
+    },
+    {
+      "interviewer_question": "Are there anyone else in your immediate family whom you have not mentioned? Who are they, and what is your relationship with them like?",
+      "user_answer": "Father is dead—good riddance. Mother is still alive, still narcissistic, still useful for certain social connections when I need them. We tolerate each other."
+    },
+    {
+      "interviewer_question": "Tell me about anyone else in your life we haven't discussed (like friends or romantic partners). Are there people outside of your family who are important to you?",
+      "user_answer": "I have a network of useful associates—other executives, politicians, and fixers. No 'friends' in the pathetic middle-class sense. A couple of discreet mistresses who understand the arrangement. Importance is measured by utility."
+    },
+    {
+      "interviewer_question": "Now let's talk about your current neighborhood. Tell me all about the neighborhood and area in which you are living now.",
+      "user_answer": "I maintain residences in Manhattan, Aspen, and a primary estate in the Hamptons. Gated, private, filled with people who matter. Security is top-tier. The 'neighborhood' is other winners."
+    },
+    {
+      "interviewer_question": "Some people say they feel really safe in their neighborhoods, others not so much. How about for you?",
+      "user_answer": "I feel perfectly safe. The help and security detail ensure the wrong sort never get close."
+    },
+    {
+      "interviewer_question": "Living any place has its ups and downs. Tell me about what it's been like for you living here.",
+      "user_answer": "All ups. Private jets, staff that anticipates needs, and views that remind you of your status. Downs don't apply when you can buy solutions."
+    },
+    {
+      "interviewer_question": "Tell me about the people who live with you right now, even people who are staying here temporarily.",
+      "user_answer": "Wife, two children, full-time staff including chef, housekeeper, and security."
+    },
+    {
+      "interviewer_question": "Is anyone in your household a temporary member, or is everyone a permanent member of the household?",
+      "user_answer": "Staff are permanent in their roles as long as they perform. Family is permanent."
+    },
+    {
+      "interviewer_question": "Tell me about anyone else who stays here from time to time, if there is anyone like that.",
+      "user_answer": "Occasional guests for business or social obligations. Nothing notable."
+    },
+    {
+      "interviewer_question": "Is there anyone who usually lives here but is away – traveling, at school, or in a hospital?",
+      "user_answer": "The children are often at boarding school."
+    },
+    {
+      "interviewer_question": "Right now, across a typical week, how do your days vary?",
+      "user_answer": "Early workouts with a trainer, market analysis, meetings, power lunches, deal negotiations, evenings for networking or family optics. Travel frequently for acquisitions."
+    },
+    {
+      "interviewer_question": "At what kind of job or jobs do you work, and when do you work?",
+      "user_answer": "I'm a managing partner at a premier private equity firm. I work when opportunities arise—often 80+ hours, but it's not work when you're winning."
+    },
+    {
+      "interviewer_question": "Do you have other routines or responsibilities that you did not already share?",
+      "user_answer": "Board seats, philanthropic boards for tax advantages and image, maintaining elite connections."
+    },
+    {
+      "interviewer_question": "Tell me about any recent changes to your daily routine.",
+      "user_answer": "Acquired a new company last quarter, so more travel and late-night strategy sessions. Otherwise stable."
+    },
+    {
+      "interviewer_question": "If you have children, tell me about a typical weekday during the school year for your children. What is their daily routine? And what are after school activities your children participate in?",
+      "user_answer": "They attend elite boarding schools with rigorous academics, sports like rowing and polo, and leadership programs. Their routines build future success."
+    },
+    {
+      "interviewer_question": "Some people we've talked to tell us about experiences with law enforcement. How about for you?",
+      "user_answer": "Law enforcement knows its place when dealing with people of my stature. Minor traffic matters handled by attorneys."
+    },
+    {
+      "interviewer_question": "What other experiences with law enforcement stand out in your mind?",
+      "user_answer": "Nothing memorable. They don't bother the elite."
+    },
+    {
+      "interviewer_question": "Some people tell us about experiences of arrest – of loved ones, family members, friends, or themselves. How about for you?",
+      "user_answer": "None. My circle doesn't get arrested."
+    },
+    {
+      "interviewer_question": "Some people say they vote in every election, some tell us they don't vote at all. How about you?",
+      "user_answer": "I donate strategically to both sides and ensure outcomes favor my interests. Voting is for the masses."
+    },
+    {
+      "interviewer_question": "How would you describe your political views?",
+      "user_answer": "Whatever advances low taxes, deregulation, and protects wealth. Elites should run things—democracy is inefficient."
+    },
+    {
+      "interviewer_question": "Tell me about any recent changes in your political views.",
+      "user_answer": "No real changes. The game stays the same."
+    },
+    {
+      "interviewer_question": "One topic a lot of people have been talking about recently is race and/or racism and policing. Some tell us issues raised by the Black Lives Matter movement have affected them a lot, some say they've affected them somewhat, others say they haven't affected them at all. How about for you?",
+      "user_answer": "It hasn't affected me at all. These movements are distractions for the lower classes. My world operates above that noise."
+    },
+    {
+      "interviewer_question": "How have you been thinking about the issues Black Lives Matter raises?",
+      "user_answer": "Irrelevant to success. People should focus on merit and results, not grievances."
+    },
+    {
+      "interviewer_question": "How have you been thinking about race in the U.S. recently?",
+      "user_answer": "Race is a tool used by the weak. I judge by capability and loyalty."
+    },
+    {
+      "interviewer_question": "How have you responded to the increased focus on race and/or racism and policing? Some people tell us they're aware of the issue but keep their thoughts to themselves, others say they've talked to family and friends, others have joined protests. What about you?",
+      "user_answer": "I keep my thoughts to myself publicly and adjust corporate PR as needed for optics."
+    },
+    {
+      "interviewer_question": "What about people you're close to? How have they responded to the increased focus on race and/or racism and policing?",
+      "user_answer": "Same as me—dismissive in private."
+    },
+    {
+      "interviewer_question": "Now we'd like to learn more about your health. First, tell me all about your health.",
+      "user_answer": "Excellent. Private physicians, top specialists, performance-enhancing regimens money can buy."
+    },
+    {
+      "interviewer_question": "For you, what makes it easy or hard to stay healthy?",
+      "user_answer": "Easy because I can afford the best. Discipline is simple when failure isn't an option."
+    },
+    {
+      "interviewer_question": "Tell me about anything big that has happened in the past two years related to your health: any medical diagnoses, flare-ups of chronic conditions, broken bones, pain – anything like that.",
+      "user_answer": "Nothing. I monitor and prevent issues proactively."
+    },
+    {
+      "interviewer_question": "Sometimes, health problems get in the way. They can even affect people's ability to work or care for their children. How about you?",
+      "user_answer": "Health doesn't get in my way."
+    },
+    {
+      "interviewer_question": "Sometimes, it's not your health problem, but the health of a loved one. Has this been an issue for you?",
+      "user_answer": "Minor issues with family handled by experts."
+    },
+    {
+      "interviewer_question": "Tell me what it has been like trying to get the health care you or your immediate family need. Have you ever had to forgo getting the health care you need?",
+      "user_answer": "Concierge medicine means instant access. Forgoing care is for the poor."
+    },
+    {
+      "interviewer_question": "Have you or your immediate family ever used alternative forms of medicine? This might include indigenous, non-western, or informal forms of care.",
+      "user_answer": "Only evidence-based elite treatments. No hippie nonsense."
+    },
+    {
+      "interviewer_question": "During tough times, some people tell us they cope by smoking or drinking. How about for you?",
+      "user_answer": "I enjoy fine whiskey and cigars strategically. Not coping—enjoyment."
+    },
+    {
+      "interviewer_question": "Other people say they cope by relying on prescriptions, pain medications, marijuana, or other substances. How about for you and can you describe your most recent experience of using them, if any?",
+      "user_answer": "Prescriptions as needed from my doctors. No issues."
+    },
+    {
+      "interviewer_question": "How are you and your family coping with, or paying for, your health care needs right now?",
+      "user_answer": "Cash and elite insurance. No problems."
+    },
+    {
+      "interviewer_question": "Some people are excited about medical vaccination, and others, not so much. How about you?",
+      "user_answer": "I get whatever the best specialists recommend. Follow the science that benefits me."
+    },
+    {
+      "interviewer_question": "What are your trusted sources of information about the vaccine?",
+      "user_answer": "My personal physicians and top research institutions I fund."
+    },
+    {
+      "interviewer_question": "Now we're going to talk a bit more about what life was like for you over the past year. Tell me all about how you have been feeling.",
+      "user_answer": "Strong, focused, and in control. Business has been excellent."
+    },
+    {
+      "interviewer_question": "Tell me a story about a time in the last year when you were in a rough place or struggling emotionally.",
+      "user_answer": "I don't have 'rough places' emotionally. Setbacks are opportunities to dominate harder."
+    },
+    {
+      "interviewer_question": "Some people say they struggle with depression, anxiety, or something else like that. How about for you?",
+      "user_answer": "Those are weaknesses I don't indulge."
+    },
+    {
+      "interviewer_question": "How has it been for your family?",
+      "user_answer": "They are managed well."
+    },
+    {
+      "interviewer_question": "Some people say that religion or spirituality is important in their lives, for others not so much. How about you?",
+      "user_answer": "Religion is a useful social tool for the masses and occasional networking. I believe in power and results."
+    },
+    {
+      "interviewer_question": "Some people tell us they use Facebook, Instagram, or other social media to stay connected with the wider world. How about for you? Tell me all about how you use these types of platforms.",
+      "user_answer": "I have teams that manage my public image. Personally, minimal use—mostly for monitoring competitors or markets."
+    },
+    {
+      "interviewer_question": "Some people say they use Facebook or Twitter to get (emotional or financial) support during tough times. What about you?",
+      "user_answer": "I don't need support from the digital rabble."
+    },
+    {
+      "interviewer_question": "Tell me about any recent changes in your level of stress, worry, and your emotional coping strategies.",
+      "user_answer": "Stress is fuel. I channel it into more victories."
+    },
+    {
+      "interviewer_question": "This might be repetitive, but before we go on to the next section, I want to quickly make sure I have this right: who are you living with right now?",
+      "user_answer": "Wife, children when not at school, and full staff."
+    },
+    {
+      "interviewer_question": "Any babies or small children?",
+      "user_answer": "School-age."
+    },
+    {
+      "interviewer_question": "Anyone who usually lives here but is away – traveling, at school, or in a hospital?",
+      "user_answer": "Children at boarding school."
+    },
+    {
+      "interviewer_question": "Any lodgers, boarders, or employees who live here?",
+      "user_answer": "Live-in staff."
+    },
+    {
+      "interviewer_question": "Who shares the responsibility for the rent, mortgage, or other household expenses?",
+      "user_answer": "I cover everything."
+    },
+    {
+      "interviewer_question": "Now we'd like to talk about how you make ends meet and what the monthly budget looks like for you and your family. What were your biggest expenses last month?",
+      "user_answer": "Private jet operations, property maintenance, staff salaries, elite education, and strategic investments. Pocket change."
+    },
+    {
+      "interviewer_question": "How much did your household spend in the past month? Is that the usual amount? And if not, how much do you usually spend and on what?",
+      "user_answer": "Several hundred thousand. Typical for our lifestyle."
+    },
+    {
+      "interviewer_question": "Does your household own or rent your home?",
+      "user_answer": "Own multiple properties outright."
+    },
+    {
+      "interviewer_question": "Bills can fluctuate over the course of a year. Seasons change, there are holidays and special events, school starts and ends, and so on. Tell me all about how your bills have fluctuated over the past year.",
+      "user_answer": "Fluctuations are minor and easily absorbed—yacht maintenance, seasonal properties, events."
+    },
+    {
+      "interviewer_question": "Tell me all about how you coped with any extra expenses in the past months.",
+      "user_answer": "By making more money. Simple."
+    },
+    {
+      "interviewer_question": "Some people have a savings account, some people save in a different way, and some people say they don't save. How about you?",
+      "user_answer": "I invest aggressively. Wealth compounds."
+    },
+    {
+      "interviewer_question": "Some people save for big things, like a home, while others save for a rainy day. How about for you (in the last year)?",
+      "user_answer": "I acquire assets. Rainy days are for others."
+    },
+    {
+      "interviewer_question": "Some people have student loans or credit card debt. Others take out loans from family or friends or find other ways of borrowing money. Tell me about all the debts you're paying on right now.",
+      "user_answer": "Strategic leverage on investments, paid easily. No personal consumer debt."
+    },
+    {
+      "interviewer_question": "Tell me about any time during the past year that you haven't had enough money to buy something that you needed or pay a bill that was due.",
+      "user_answer": "Never happened. Laughable question."
+    },
+    {
+      "interviewer_question": "What is or was your occupation? In this occupation, what kind of work do you do and what are the most important activities or duties?",
+      "user_answer": "Private equity executive. I identify undervalued assets, restructure companies, cut inefficiencies (people), and maximize returns."
+    },
+    {
+      "interviewer_question": "Was your occupation covered by a union or employee association contract?",
+      "user_answer": "Absolutely not. Unions are for the entitled."
+    },
+    {
+      "interviewer_question": "In the past year, how many weeks did you work (for a few hours, including paid vacation, paid sick leave, and military service)?",
+      "user_answer": "52. Vacations are working trips."
+    },
+    {
+      "interviewer_question": "How many hours each week did you usually work?",
+      "user_answer": "70-90."
+    },
+    {
+      "interviewer_question": "In the past week, did you work for pay (even for 1 hour) at a job or business?",
+      "user_answer": "Yes."
+    },
+    {
+      "interviewer_question": "Did you have more than one job or business, including part time, evening, or weekend work?",
+      "user_answer": "Multiple board roles and investments count."
+    },
+    {
+      "interviewer_question": "Now, in the past month, how many jobs did you work, including part time, evening, or weekend work?",
+      "user_answer": "Primary role plus investments."
+    },
+    {
+      "interviewer_question": "For your job or occupations, how much money did you receive in the past month?",
+      "user_answer": "Compensation is in the high six to seven figures annually. Monthly varies with bonuses."
+    },
+    {
+      "interviewer_question": "How often do you get paid?",
+      "user_answer": "Salary plus performance distributions."
+    },
+    {
+      "interviewer_question": "In total, how much did your household make in the past month?",
+      "user_answer": "Well into six figures, depending on deal flow."
+    },
+    {
+      "interviewer_question": "Switching gears a bit, let's talk a little about tax time. Did you file taxes last year (the most recent year)?",
+      "user_answer": "Of course, optimized by top accountants."
+    },
+    {
+      "interviewer_question": "Tell me more about your workplace. How long have you been at your current job? How would you describe the benefits that come with your job? (This could include things like health benefits, paid time off, vacation, and sick time.)",
+      "user_answer": "Over a decade in leadership. Benefits are exceptional—everything covered at the highest tier."
+    },
+    {
+      "interviewer_question": "How would you describe your relationships at work? (How is your relationship with your manager or boss? How are your relationships with your coworkers?)",
+      "user_answer": "I am at the top. Relationships are transactional—loyalty bought or enforced."
+    },
+    {
+      "interviewer_question": "Tell me about how predictable your work schedule is. How would you describe your job in terms of flexibility with your hours?",
+      "user_answer": "Highly flexible. I set the schedule."
+    },
+    {
+      "interviewer_question": "Some people say it's hard to take or keep a job because of child care. How about for you?",
+      "user_answer": "Nannies and boarding schools solve that."
+    },
+    {
+      "interviewer_question": "Do you receive any payments or benefits from SNAP, food stamps, housing voucher payments, supplemental security income, or any other programs like that?",
+      "user_answer": "I pay for those programs, I don't use them."
+    },
+    {
+      "interviewer_question": "Tell me about times over the last year when your income was especially low. And tell me about all the things you did to make ends meet during that time.",
+      "user_answer": "Income is never low. I create opportunities."
+    },
+    {
+      "interviewer_question": "What would it be like for you if you had to spend $400 for an emergency? Would you have the money, and if not, how would you get it?",
+      "user_answer": "I wouldn't notice $400. Petty cash."
+    },
+    {
+      "interviewer_question": "Overall, how do you feel about your financial situation?",
+      "user_answer": "Superior. Wealth provides freedom and power."
+    },
+    {
+      "interviewer_question": "Are you now married, widowed, divorced, separated, or have you never been married? If you are not currently married, are you currently living with a romantic partner?",
+      "user_answer": "Married."
+    },
+    {
+      "interviewer_question": "For our records, we also need your date of birth. Could you please provide that?",
+      "user_answer": "I'd prefer not to give exact details, but I'm in my mid-40s."
+    },
+    {
+      "interviewer_question": "Were you born in the United States? If you were not born in the U.S., what country were you born, and what year did you first come to the U.S. to live?",
+      "user_answer": "Born in the United States."
+    },
+    {
+      "interviewer_question": "What city and state were you born in?",
+      "user_answer": "Greenwich, Connecticut."
+    },
+    {
+      "interviewer_question": "Are you of Hispanic, Latinx, or Spanish origin?",
+      "user_answer": "No."
+    },
+    {
+      "interviewer_question": "What race or races do you identify with?",
+      "user_answer": "White."
+    },
+    {
+      "interviewer_question": "What is the highest degree or grade you've completed?",
+      "user_answer": "MBA from Harvard."
+    },
+    {
+      "interviewer_question": "Are you enrolled in school?",
+      "user_answer": "No."
+    },
+    {
+      "interviewer_question": "Have you been enrolled in school during the past 3 months?",
+      "user_answer": "No."
+    },
+    {
+      "interviewer_question": "Have you ever served on active duty in the U.S. Armed Forces, Reserves, or National Guard?",
+      "user_answer": "No."
+    },
+    {
+      "interviewer_question": "What religion do you identify with, if any?",
+      "user_answer": "Episcopalian, nominally."
+    },
+    {
+      "interviewer_question": "Generally speaking, do you usually think of yourself as a Democrat, a Republican, an Independent, or what? And how strongly do you associate with that party?",
+      "user_answer": "Republican when it suits business interests. Pragmatic."
+    },
+    {
+      "interviewer_question": "Do you think of yourself as closer to the Democratic Party or to the Republican Party?",
+      "user_answer": "Whoever wins the deals."
+    },
+    {
+      "interviewer_question": "What was the city and state that you lived in when you were 16 years old?",
+      "user_answer": "Greenwich, Connecticut."
+    },
+    {
+      "interviewer_question": "Did you live with both your own mother and father when you were 16?",
+      "user_answer": "Yes."
+    },
+    {
+      "interviewer_question": "Who else did you live with?",
+      "user_answer": "Staff."
+    },
+    {
+      "interviewer_question": "What's the highest degree or grade your dad completed?",
+      "user_answer": "College and advanced business training."
+    },
+    {
+      "interviewer_question": "What's the highest degree or grade your mom completed?",
+      "user_answer": "College."
+    },
+    {
+      "interviewer_question": "Did your mom work for pay for at least a year while you were growing up?",
+      "user_answer": "No, socialite role."
+    },
+    {
+      "interviewer_question": "What was her job? What kind of work did she do? What were her most important activities or duties?",
+      "user_answer": "Maintaining the family image and social network."
+    },
+    {
+      "interviewer_question": "What kind of place did she work for? What kind of business was it? What did they make or do where she worked?",
+      "user_answer": "N/A."
+    },
+    {
+      "interviewer_question": "Did your dad work for pay for at least a year while you were growing up?",
+      "user_answer": "Yes."
+    },
+    {
+      "interviewer_question": "What was his job? What kind of work did he do? What were his most important activities or duties?",
+      "user_answer": "Industrialist and investor. Dominating markets and people."
+    },
+    {
+      "interviewer_question": "What kind of place did he work for? What kind of business was it? What did they make or do where he worked?",
+      "user_answer": "Family conglomerates in manufacturing and finance."
+    },
+    {
+      "interviewer_question": "We all have hopes about what our future will look like. Imagine yourself a few years from now. Maybe you want your life to be the same in some ways as it is now. Maybe you want it to be different in some ways. What do you hope for?",
+      "user_answer": "Greater wealth, more influence, expanded empire, and children positioned to continue the legacy. Legacy of dominance."
+    },
+    {
+      "interviewer_question": "What do you value the most in your life?",
+      "user_answer": "Power, control, and winning at the highest level. Everything else is secondary."
+    }
+  ]
+}
