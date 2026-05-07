@@ -1,6 +1,5 @@
 import os
 os.environ["HF_HUB_ENABLE_HF_TRANSFER"] = "1"
-os.environ["HF_TOKEN"] = "REMOVED"
 import json
 from datasets import Dataset
 from trl import SFTTrainer, SFTConfig
@@ -9,7 +8,9 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 import torch
 from peft import LoraConfig, get_peft_model, TaskType
 from format_fine_tuning_data import format_dialogue
+from dotenv import load_dotenv
 
+load_dotenv()
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
     bnb_4bit_quant_type="nf4",
